@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Vidhan Raut 👋
 
-<!--
-**Vidhan31/Vidhan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a  who loves to learn new things and create cool stuff.
 
-Here are some ideas to get you started:
+## 🛠️ My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java, HTML, CSS, JavaScript, Junit, Mockito, SQL, JavaFX
+- Web development, desktop applications, testing, databases
+- Always curious and eager to learn more
+
+## 🚀 Some of my projects
+
+- [pdFX](https://github.com/Vidhan31/pdfx): A desktop application that allows you to create, edit and manipulate PDF files. Made using Java and JavaFX(GUI).
+- [Hardware-Management](https://github.com/Vidhan31/Hardware-Management): A web application that helps you manage your hardware inventory, Made using HTML, CSS, JavaScript, JQuery, Bootstrap, PHP and MySQL.
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/vidhan-raut/)
+- [Instagram](https://instagram.com/filtered.vidd)
+
+## 🎵 Interests
+
+- I love learning and assembling custom computers. I've built one for myself too!
+- I like to build my own personal projects.
