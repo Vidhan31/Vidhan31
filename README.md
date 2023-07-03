@@ -1,12 +1,11 @@
-# Hi there, I'm Vidhan Raut 👋
+# Hello there, I'm Vidhan Raut 👋
 
-I'm a  who loves to learn new things and create cool stuff.
+I love to learn new things and create cool stuff.
 
-## 🛠️ My skills
+## 🛠️ Skills
 
 - Java, HTML, CSS, JavaScript, Junit, Mockito, SQL, JavaFX
 - Web development, desktop applications, testing, databases
-- Always curious and eager to learn more
 
 ## 🚀 Some of my projects
 
