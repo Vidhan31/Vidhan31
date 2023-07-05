@@ -17,7 +17,7 @@ I love to learn new things and create cool stuff.
 - [LinkedIn](https://www.linkedin.com/in/vidhan-raut/)
 - [Instagram](https://instagram.com/filtered.vidd)
 
-## 🎵 Interests
+## 🎈 Interests
 
 - I love learning and assembling custom computers. I've built one for myself too!
 - I like to build my own personal projects.
